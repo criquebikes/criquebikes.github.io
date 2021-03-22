@@ -1,4 +1,4 @@
-# crique
+# Crique Bikes
 
 click here to enter my website: [criquebikes.github.io](https://criquebikes.github.io/)
 
